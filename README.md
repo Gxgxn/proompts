@@ -1,6 +1,6 @@
 # ChatGPT Prompt Sharing App
 
-![Link To Deployment](https://proompts-iota.vercel.app)
+[Link To Deployment](https://proompts-iota.vercel.app)
 
 **Welcome to the ChatGPT Prompt Sharing App!** This is a full-stack Next.js application that enables users to log in and share efficient and creative prompts for chatbots like ChatGPT and other Language Models (LLMs).
 
