@@ -1,4 +1,4 @@
-# ChatGPT Prompt Sharing App
+# Prompt Sharing App
 
 [Link To Deployment](https://proompts-iota.vercel.app)
 
